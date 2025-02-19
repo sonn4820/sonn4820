@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on any game project
 - 📫 How to reach me:
-    - Website: https://soz48.com/
+    - Website: https://www.soz48.com/
     - LinkedIn: https://www.linkedin.com/in/soz48/
     - Email: sonnguyen4820@gmail.com 
       
