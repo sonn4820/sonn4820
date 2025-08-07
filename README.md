@@ -10,7 +10,6 @@ My name is Son, a passionate game programmer driven by creating immersive digita
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Social Links</title>
 </head>
 <body>
     <div align="left">
